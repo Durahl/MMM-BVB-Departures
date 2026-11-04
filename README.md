@@ -1,3 +1,5 @@
+<img width="4032" height="3024" alt="20261104_163639426_iOS" src="https://github.com/user-attachments/assets/31f573da-2908-4118-82b7-1cc3151393c5" />
+
 # MMM-BVB-Departures
 
 A MagicMirror² module that displays live departures from Swiss public transport stops.
